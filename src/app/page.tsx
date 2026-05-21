@@ -521,14 +521,14 @@ function Hero() {
               className="flex flex-col sm:flex-row gap-4 pt-1"
             >
               <a
-                href="#diagnostico"
+                href="https://wa.me/5522999067522"
                 className="group inline-flex items-center justify-center gap-2 rounded-full bg-brand-500 px-8 py-4 text-sm font-bold text-white shadow-lg shadow-brand-500/25 transition-all hover:bg-brand-400 hover:shadow-xl hover:shadow-brand-500/30 hover:-translate-y-0.5 animate-pulse-glow"
               >
                 Solicitar Diagnóstico Rápido
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
               </a>
               <a
-                href="#servicos"
+                href="https://wa.me/5522999067522"
                 className="inline-flex items-center justify-center gap-2 rounded-full border border-white/10 bg-white/5 px-8 py-4 text-sm font-semibold text-slate-300 transition-all hover:bg-white/10 hover:border-white/20"
               >
                 Ver Serviços
