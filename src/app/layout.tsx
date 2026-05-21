@@ -22,9 +22,7 @@ export const metadata: Metadata = {
     "Codelium Company",
   ],
   authors: [{ name: "Codelium Company" }],
-  icons: {
-    icon: "/logo.svg",
-  },
+
   openGraph: {
     title: "Codelium Company — Automação e IA para Clínicas",
     description:
