@@ -528,7 +528,7 @@ function Hero() {
                 <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
               </a>
               <a
-                href="https://wa.me/5522999067522"
+                href="#servicos"
                 className="inline-flex items-center justify-center gap-2 rounded-full border border-white/10 bg-white/5 px-8 py-4 text-sm font-semibold text-slate-300 transition-all hover:bg-white/10 hover:border-white/20"
               >
                 Ver Serviços
@@ -744,7 +744,7 @@ function DiagnosticForm() {
 
   function handleDiagnosticClick() {
     setClicked(true);
-    window.open('/api/diagnostic', '_blank');
+    window.open('https://wa.me/5522999067522', '_blank');
   }
 
   return (
